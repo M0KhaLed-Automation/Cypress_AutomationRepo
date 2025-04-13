@@ -1,0 +1,18 @@
+
+ {
+      "name": "mohamed khaled",
+      "email": "m00100ohameed",
+      "password": "12345678",
+      "firstName": "mohamed",
+      "lastName": "khaled",
+      "phone": "0123456789",
+      "address": "123 Main St",
+      "birth_date": {"day": "19", "month": "12", "year": "1998"},
+      "city": "Cairo",
+      "state": "Cairo",
+      "zip": "12345",
+      "country": "Canada",
+      "company": "Tech Company"
+    
+ }
+      
